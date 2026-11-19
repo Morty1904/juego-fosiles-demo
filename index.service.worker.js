@@ -4,9 +4,9 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1795067777|2267075';
+const CACHE_VERSION = '1795074179|2083239';
 /** @type {string} */
-const CACHE_PREFIX = 'Juego de fósiles-sw-cache-';
+const CACHE_PREFIX = 'Fossil Dream Tyc-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
 /** @type {string} */
 const OFFLINE_URL = 'index.offline.html';
